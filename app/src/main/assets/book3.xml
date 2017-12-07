@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bookList>
+    <book>
+        <id>1001</id>
+        <name>JAVA</name>
+        <price>99.00</price>
+    </book>
+    <book>
+        <id>1002</id>
+        <name>Android</name>
+        <price>80.00</price>
+    </book>
+    <book>
+        <id>1003</id>
+        <name>PHP</name>
+        <price>65.05</price>
+    </book>
+</bookList>
